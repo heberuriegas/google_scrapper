@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/heberuriegas/google_scrapper_backend
+[submodule "app"]
+	path = app
+	url = https://github.com/heberuriegas/google-scrapper-app
