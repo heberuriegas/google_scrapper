@@ -3,7 +3,7 @@
 To clone the repo and it's submodules run the command below:
 
 ```
-git@github.com:heberuriegas/google_scrapper.git --recursive
+git clone git@github.com:heberuriegas/google_scrapper.git --recursive
 ```
 
 To run frontend, please read:
