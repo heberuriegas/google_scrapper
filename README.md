@@ -1,4 +1,4 @@
-# Clone
+# Clone the project
 
 To clone the repo and it's submodules run the command below:
 
